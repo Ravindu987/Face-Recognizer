@@ -1,0 +1,2 @@
+1. Push buttons are different from sensors. Sensors post data continously. But buttons are interrupt driven. 
+   Better mention this in the document.
