@@ -1,2 +1,5 @@
 1. Push buttons are different from sensors. Sensors post data continously. But buttons are interrupt driven. 
    Better mention this in the document.
+
+   Domain class diagram - https://lucid.app/lucidchart/ea695dcf-cc92-4288-9954-7cccdc3242c8/edit?viewport_loc=103%2C-472%2C2637%2C1132%2C0_0&invitationId=inv_888e8330-038f-4e1a-bbc0-287b04946300
+   
