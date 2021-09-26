@@ -13,3 +13,7 @@
    Activity diagram - https://lucid.app/lucidchart/92b8c994-4651-4f7b-8afa-30651242eab2/edit?viewport_loc=-201%2C-422%2C4039%2C1998%2C0_0&invitationId=inv_9aa248b9-e3ac-46ba-a144-dae76a94164e
 
    System sequence diagram - https://lucid.app/lucidchart/8fa07b58-67bb-4a89-b32b-4c580da98fb3/edit?viewport_loc=-1539%2C-282%2C5450%2C2696%2C0_0&invitationId=inv_5d25cd0a-36e8-4eda-9053-7c3ad66180d0
+
+   State charts - https://lucid.app/lucidchart/ffb7c230-13eb-4ece-845a-170025020b32/edit?beaconFlowId=A147EB63FB490B66&invitationId=inv_ec76bed3-26c7-4f74-a505-ac8c45ccf9ec&page=0_0#
+
+   
