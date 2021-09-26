@@ -8,5 +8,9 @@
                    
    Events Table  - https://docs.google.com/spreadsheets/d/18UN27DhJhwBACZye2d2vHt-lZHMyrMfGfqzvZEYe-Dg/edit?usp=sharing
    
+
    UCD detailed Description - https://docs.google.com/document/d/1i21Gcs_DrKoO4LZtxIJKcL0zXoRreT4J14BhSLjdG6E/edit?usp=sharing
    
+
+   Activity diagram - https://lucid.app/lucidchart/92b8c994-4651-4f7b-8afa-30651242eab2/edit?viewport_loc=-201%2C-422%2C4039%2C1998%2C0_0&invitationId=inv_9aa248b9-e3ac-46ba-a144-dae76a94164e
+
