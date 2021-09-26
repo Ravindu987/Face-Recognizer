@@ -8,3 +8,5 @@
                    
    Events Table  - https://docs.google.com/spreadsheets/d/18UN27DhJhwBACZye2d2vHt-lZHMyrMfGfqzvZEYe-Dg/edit?usp=sharing
    
+   UCD detailed Description - https://docs.google.com/document/d/1i21Gcs_DrKoO4LZtxIJKcL0zXoRreT4J14BhSLjdG6E/edit?usp=sharing
+   
