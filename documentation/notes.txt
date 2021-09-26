@@ -3,3 +3,8 @@
 
    Domain class diagram - https://lucid.app/lucidchart/ea695dcf-cc92-4288-9954-7cccdc3242c8/edit?viewport_loc=103%2C-472%2C2637%2C1132%2C0_0&invitationId=inv_888e8330-038f-4e1a-bbc0-287b04946300
    
+   Use case Diagrams - https://lucid.app/lucidchart/1bdfd0ee-9f95-46e9-b4c4-d9af3a7ca326/edit?viewport_loc=-494%2C78%2C2560%2C1072%2C0_0&invitationId=inv_d8039efb-ef3d-4841-869d-e89781916091
+                     - https://lucid.app/lucidchart/723f15d1-f083-4a84-ac6d-97f7a31a8d84/edit?viewport_loc=-209%2C-730%2C2560%2C1072%2C0_0&invitationId=inv_48124194-3951-42b1-bee0-708ed6c2a2b2
+                   
+   Events Table  - https://docs.google.com/spreadsheets/d/18UN27DhJhwBACZye2d2vHt-lZHMyrMfGfqzvZEYe-Dg/edit?usp=sharing
+   
