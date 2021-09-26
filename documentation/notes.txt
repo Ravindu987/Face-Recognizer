@@ -6,11 +6,10 @@
    Use case Diagrams - https://lucid.app/lucidchart/1bdfd0ee-9f95-46e9-b4c4-d9af3a7ca326/edit?viewport_loc=-494%2C78%2C2560%2C1072%2C0_0&invitationId=inv_d8039efb-ef3d-4841-869d-e89781916091
                      - https://lucid.app/lucidchart/723f15d1-f083-4a84-ac6d-97f7a31a8d84/edit?viewport_loc=-209%2C-730%2C2560%2C1072%2C0_0&invitationId=inv_48124194-3951-42b1-bee0-708ed6c2a2b2
                    
-   Events Table  - https://docs.google.com/spreadsheets/d/18UN27DhJhwBACZye2d2vHt-lZHMyrMfGfqzvZEYe-Dg/edit?usp=sharing
-   
+   Events Table  - https://docs.google.com/spreadsheets/d/18UN27DhJhwBACZye2d2vHt-lZHMyrMfGfqzvZEYe-Dg/edit?usp=sharing 
 
    UCD detailed Description - https://docs.google.com/document/d/1i21Gcs_DrKoO4LZtxIJKcL0zXoRreT4J14BhSLjdG6E/edit?usp=sharing
-   
 
    Activity diagram - https://lucid.app/lucidchart/92b8c994-4651-4f7b-8afa-30651242eab2/edit?viewport_loc=-201%2C-422%2C4039%2C1998%2C0_0&invitationId=inv_9aa248b9-e3ac-46ba-a144-dae76a94164e
 
+   System sequence diagram - https://lucid.app/lucidchart/8fa07b58-67bb-4a89-b32b-4c580da98fb3/edit?viewport_loc=-1539%2C-282%2C5450%2C2696%2C0_0&invitationId=inv_5d25cd0a-36e8-4eda-9053-7c3ad66180d0
